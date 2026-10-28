@@ -1,4 +1,17 @@
-## Hi there 👋
+## Hi my name is James 🫥
+
+- 🌱 I’m currently learning on boot.dev c, go, python...
+
+### Completed Courses
+
+- [![Boot.dev Learn Memory Management in C certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/b3612c02-c92a-4f3e-bf29-b7efa18fabf4.jpeg?v=1793224487)](https://www.boot.dev/certificates/b3612c02-c92a-4f3e-bf29-b7efa18fabf4)
+- [![Boot.dev Learn SQL certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/4a9c1e2b-8ece-40d1-a44a-340946fb19b3.jpeg?v=1791815307)](https://www.boot.dev/certificates/4a9c1e2b-8ece-40d1-a44a-340946fb19b3)
+- [![Boot.dev Learn Data Structures and Algorithms in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/43fc334a-98d9-40fd-946e-9edf5634787c.jpeg?v=1793226562)](https://www.boot.dev/certificates/43fc334a-98d9-40fd-946e-9edf5634787c)
+- [![Boot.dev Introduction to Python Course certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/fa4c61c5-3620-4983-a41e-744863cdbdb9.jpeg?v=1787093846)](https://www.boot.dev/certificates/fa4c61c5-3620-4983-a41e-744863cdbdb9)
+- [![Boot.dev Learn Object Oriented Programming in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/45557940-78f5-4208-ab8a-b109bffecb1e.jpeg?v=1788445168)](https://www.boot.dev/certificates/45557940-78f5-4208-ab8a-b109bffecb1e)
+- [![Boot.dev Learn Functional Programming in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/5a296f18-015d-4b13-b57b-b1529d9ade70.jpeg?v=1787743878)](https://www.boot.dev/certificates/5a296f18-015d-4b13-b57b-b1529d9ade70)
+- [![Boot.dev Learn Linux certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/f8d88786-902b-4da3-9ff3-fd62ed85da2e.jpeg?v=1788282272)](https://www.boot.dev/certificates/f8d88786-902b-4da3-9ff3-fd62ed85da2e)
+- [![Boot.dev Learn Git certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/bab7d099-a61d-4ee3-99c8-10c357cae21b.jpeg?v=1775238450)](https://www.boot.dev/certificates/bab7d099-a61d-4ee3-99c8-10c357cae21b)
 
 <!--
 **jamescopping/jamescopping** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
